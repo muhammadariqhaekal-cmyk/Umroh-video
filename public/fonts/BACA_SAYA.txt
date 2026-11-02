@@ -1,0 +1,7 @@
+Taruh file font Galline di folder ini dengan nama:
+
+    Galline.otf     (atau Galline.ttf)
+
+Font Galline tidak bisa saya ambil dari gambar referensi, jadi file aslinya harus Anda
+unduh/miliki sendiri (pastikan lisensinya sesuai untuk penggunaan Anda).
+Kalau file belum ada, video tetap bisa dirender memakai Playfair Display sebagai cadangan.
